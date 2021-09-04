@@ -1,4 +1,4 @@
-# SecretWeb3 is a webapp that allows you to collect anonymous feedback from your friends, coworkers and Fans. Hosted on decentralized cloud https://akash.network/
+# SecretWeb3 is a webapp that allows you to collect anonymous feedback from your friends, coworkers and Fans.
 
 # App link: [Click here](http://vfns3fm5lpb0na9vqqkrl4lns0.ingress.provider-0.prod.sjc1.akash.pub/)
 
@@ -11,3 +11,6 @@
 4) MORALIS WEB3
 5) DOCKER
 6) WEB3
+7) AKASH SDL
+
+# HOSTED ON DECENTRALIZED CLOUD: [AKASH NETWORK](https://akash.network/)
