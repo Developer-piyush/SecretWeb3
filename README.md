@@ -1,4 +1,4 @@
-# SecretWeb3 is a webapp that allows you to collect anonymous feedback from your friends, coworkers and Fans.
+### SecretWeb3 is a webapp that allows you to collect anonymous feedback from your friends, coworkers and Fans, built on top of 🏗 Scaffold-ETH idea!
 
 # Youtube: [click here](https://youtu.be/0tRC5VwLqAU)
 
